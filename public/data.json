@@ -1,0 +1,3104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "category": "beauty-product",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.94,
+      "stock": 5,
+      "tags": [
+        "beauty",
+        "mascara"
+      ],
+      "brand": "Essence",
+      "sku": "RCH45Q1A",
+      "weight": 2,
+      "dimensions": {
+        "width": 23.17,
+        "height": 14.43,
+        "depth": 28.01
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 24,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "9164035109868",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "category": "beauty-product",
+      "price": 19.99,
+      "discountPercentage": 5.5,
+      "rating": 3.28,
+      "stock": 44,
+      "tags": [
+        "beauty",
+        "eyeshadow"
+      ],
+      "brand": "Glamour Beauty",
+      "sku": "MVCFH27F",
+      "weight": 3,
+      "dimensions": {
+        "width": 12.42,
+        "height": 8.63,
+        "depth": 29.13
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Liam Garcia",
+          "reviewerEmail": "liam.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Elena Baker",
+          "reviewerEmail": "elena.baker@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 32,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "2817839095220",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "category": "beauty-product",
+      "price": 14.99,
+      "discountPercentage": 18.14,
+      "rating": 3.82,
+      "stock": 59,
+      "tags": [
+        "beauty",
+        "face powder"
+      ],
+      "brand": "Velvet Touch",
+      "sku": "9EN8WLT2",
+      "weight": 8,
+      "dimensions": {
+        "width": 24.16,
+        "height": 10.7,
+        "depth": 11.07
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Ethan Thompson",
+          "reviewerEmail": "ethan.thompson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Levi Hicks",
+          "reviewerEmail": "levi.hicks@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.618Z",
+          "reviewerName": "Hazel Gardner",
+          "reviewerEmail": "hazel.gardner@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 25,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.618Z",
+        "updatedAt": "2024-05-23T08:56:21.618Z",
+        "barcode": "0516267971277",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+      "category": "beauty-product",
+      "price": 12.99,
+      "discountPercentage": 19.03,
+      "rating": 2.51,
+      "stock": 68,
+      "tags": [
+        "beauty",
+        "lipstick"
+      ],
+      "brand": "Chic Cosmetics",
+      "sku": "O5IF1NTA",
+      "weight": 5,
+      "dimensions": {
+        "width": 14.37,
+        "height": 13.94,
+        "depth": 14.6
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Oscar Powers",
+          "reviewerEmail": "oscar.powers@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Carter Rivera",
+          "reviewerEmail": "carter.rivera@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 6,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "9444582199406",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+      "category": "beauty-product",
+      "price": 8.99,
+      "discountPercentage": 2.46,
+      "rating": 3.91,
+      "stock": 71,
+      "tags": [
+        "beauty",
+        "nail polish"
+      ],
+      "brand": "Nail Couture",
+      "sku": "YUIIIP4W",
+      "weight": 9,
+      "dimensions": {
+        "width": 8.11,
+        "height": 10.89,
+        "depth": 29.06
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evan Reed",
+          "reviewerEmail": "evan.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Evelyn Sanchez",
+          "reviewerEmail": "evelyn.sanchez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 46,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "3212847902461",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+      "category": "fragrances",
+      "price": 49.99,
+      "discountPercentage": 0.32,
+      "rating": 4.85,
+      "stock": 17,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Calvin Klein",
+      "sku": "DZM2JQZE",
+      "weight": 5,
+      "dimensions": {
+        "width": 11.53,
+        "height": 14.44,
+        "depth": 6.81
+      },
+      "warrantyInformation": "5 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Very disappointed!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Maya Reed",
+          "reviewerEmail": "maya.reed@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 20,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "2210136215089",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+      "category": "fragrances",
+      "price": 129.99,
+      "discountPercentage": 18.64,
+      "rating": 2.76,
+      "stock": 41,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Chanel",
+      "sku": "K71HBCGS",
+      "weight": 4,
+      "dimensions": {
+        "width": 21.27,
+        "height": 28,
+        "depth": 11.89
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 1,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lincoln Kelly",
+          "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lincoln Kelly",
+          "reviewerEmail": "lincoln.kelly@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Lucas Allen",
+          "reviewerEmail": "lucas.allen@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "1435582999795",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png"
+   
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+      "category": "fragrances",
+      "price": 89.99,
+      "discountPercentage": 17.44,
+      "rating": 3.31,
+      "stock": 91,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Dior",
+      "sku": "E70NB03B",
+      "weight": 10,
+      "dimensions": {
+        "width": 21.51,
+        "height": 7,
+        "depth": 26.51
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Zoe Nicholson",
+          "reviewerEmail": "zoe.nicholson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Addison Wright",
+          "reviewerEmail": "addison.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 8,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "0887083199279",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png"
+       
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
+    },
+    {
+      "id": 9,
+      "title": "Dolce Shine Eau de",
+      "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+      "category": "fragrances",
+      "price": 69.99,
+      "discountPercentage": 11.47,
+      "rating": 2.68,
+      "stock": 3,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Dolce & Gabbana",
+      "sku": "1NBFK980",
+      "weight": 5,
+      "dimensions": {
+        "width": 17,
+        "height": 24.57,
+        "depth": 13.3
+      },
+      "warrantyInformation": "5 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Xavier Wright",
+          "reviewerEmail": "xavier.wright@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Mila Hernandez",
+          "reviewerEmail": "mila.hernandez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.619Z",
+          "reviewerName": "Sophia Brown",
+          "reviewerEmail": "sophia.brown@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 9,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.619Z",
+        "updatedAt": "2024-05-23T08:56:21.619Z",
+        "barcode": "1939383392674",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png"
+       
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
+    },
+    {
+      "id": 10,
+      "title": "Gucci Bloom Eau de",
+      "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+      "category": "fragrances",
+      "price": 79.99,
+      "discountPercentage": 8.9,
+      "rating": 2.69,
+      "stock": 93,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Gucci",
+      "sku": "FFKZ6HOF",
+      "weight": 10,
+      "dimensions": {
+        "width": 22.28,
+        "height": 17.81,
+        "depth": 27.18
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Aria Parker",
+          "reviewerEmail": "aria.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Natalie Harris",
+          "reviewerEmail": "natalie.harris@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ava Harris",
+          "reviewerEmail": "ava.harris@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 10,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "8232190382069",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png"
+       
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
+    },
+    {
+      "id": 11,
+      "title": "Annibale Colombo Bed",
+      "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+      "category": "furniture",
+      "price": 1899.99,
+      "discountPercentage": 0.29,
+      "rating": 4.14,
+      "stock": 47,
+      "tags": [
+        "furniture",
+        "beds"
+      ],
+      "brand": "Annibale Colombo",
+      "sku": "4KMDTZWF",
+      "weight": 3,
+      "dimensions": {
+        "width": 28.75,
+        "height": 26.88,
+        "depth": 24.47
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Julian Newton",
+          "reviewerEmail": "julian.newton@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Clara Berry",
+          "reviewerEmail": "clara.berry@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7113807059215",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png"
+       
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png"
+    },
+    {
+      "id": 12,
+      "title": "Annibale Colombo Sofa",
+      "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+      "category": "furniture",
+      "price": 2499.99,
+      "discountPercentage": 18.54,
+      "rating": 3.08,
+      "stock": 16,
+      "tags": [
+        "furniture",
+        "sofas"
+      ],
+      "brand": "Annibale Colombo",
+      "sku": "LUU95CQP",
+      "weight": 3,
+      "dimensions": {
+        "width": 20.97,
+        "height": 19.11,
+        "depth": 25.81
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Tyler Davis",
+          "reviewerEmail": "tyler.davis@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Hannah Robinson",
+          "reviewerEmail": "hannah.robinson@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "0426785817074",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png"
+        
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
+    },
+    {
+      "id": 13,
+      "title": "Bedside Table African Cherry",
+      "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+      "category": "furniture",
+      "price": 299.99,
+      "discountPercentage": 9.58,
+      "rating": 4.48,
+      "stock": 16,
+      "tags": [
+        "furniture",
+        "bedside tables"
+      ],
+      "brand": "Furniture Co.",
+      "sku": "OWPLTZYX",
+      "weight": 10,
+      "dimensions": {
+        "width": 25.43,
+        "height": 20.2,
+        "depth": 24.95
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Avery Carter",
+          "reviewerEmail": "avery.carter@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Evelyn Sanchez",
+          "reviewerEmail": "evelyn.sanchez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "2913244159666",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png"
+        
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png"
+    },
+    {
+      "id": 14,
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+      "category": "furniture",
+      "price": 499.99,
+      "discountPercentage": 15.23,
+      "rating": 4.11,
+      "stock": 47,
+      "tags": [
+        "furniture",
+        "office chairs"
+      ],
+      "brand": "Knoll",
+      "sku": "RKHVJ4FE",
+      "weight": 3,
+      "dimensions": {
+        "width": 16.59,
+        "height": 21.46,
+        "depth": 29.07
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Leah Gutierrez",
+          "reviewerEmail": "leah.gutierrez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Nolan Gonzalez",
+          "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Waste of money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Stella Morris",
+          "reviewerEmail": "stella.morris@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 5,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "0726316339746",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png"
+       
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png"
+    },
+    {
+      "id": 15,
+      "title": "Wooden Bathroom Sink With Mirror",
+      "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+      "category": "furniture",
+      "price": 799.99,
+      "discountPercentage": 11.22,
+      "rating": 3.26,
+      "stock": 95,
+      "tags": [
+        "furniture",
+        "bathroom"
+      ],
+      "brand": "Bath Trends",
+      "sku": "7OLTIEVO",
+      "weight": 6,
+      "dimensions": {
+        "width": 7.32,
+        "height": 22.64,
+        "depth": 12.37
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Would not recommend!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "William Gonzalez",
+          "reviewerEmail": "william.gonzalez@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ava Harrison",
+          "reviewerEmail": "ava.harrison@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7839797529453",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/1.png"
+       
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png"
+    },
+    {
+      "id": 16,
+      "title": "Apple",
+      "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+      "category": "groceries",
+      "price": 1.99,
+      "discountPercentage": 1.97,
+      "rating": 2.96,
+      "stock": 9,
+      "tags": [
+        "fruits"
+      ],
+      "brand": "FreshFruits",
+      "sku": "QTROUV79",
+      "weight": 8,
+      "dimensions": {
+        "width": 8.29,
+        "height": 5.58,
+        "depth": 12.41
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Logan Lee",
+          "reviewerEmail": "logan.lee@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Elena Long",
+          "reviewerEmail": "elena.long@x.dummyjson.com"
+        },
+        {
+          "rating": 1,
+          "comment": "Not as described!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Grayson Coleman",
+          "reviewerEmail": "grayson.coleman@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 44,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "2517819903837",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
+    },
+    {
+      "id": 17,
+      "title": "Beef Steak",
+      "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+      "category": "groceries",
+      "price": 12.99,
+      "discountPercentage": 17.99,
+      "rating": 2.83,
+      "stock": 96,
+      "tags": [
+        "meat"
+      ],
+      "brand": "PrimeMeats",
+      "sku": "BWWA2MSO",
+      "weight": 9,
+      "dimensions": {
+        "width": 23.35,
+        "height": 13.48,
+        "depth": 26.4
+      },
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ethan Martinez",
+          "reviewerEmail": "ethan.martinez@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Owen Fisher",
+          "reviewerEmail": "owen.fisher@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Scarlett Wright",
+          "reviewerEmail": "scarlett.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 21,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "8335515097879",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png"
+    },
+    {
+      "id": 18,
+      "title": "Cat Food",
+      "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+      "category": "groceries",
+      "price": 8.99,
+      "discountPercentage": 9.57,
+      "rating": 2.88,
+      "stock": 13,
+      "tags": [
+        "pet supplies",
+        "cat food"
+      ],
+      "brand": "PetDelight",
+      "sku": "C3F8QN6O",
+      "weight": 9,
+      "dimensions": {
+        "width": 15.4,
+        "height": 13.97,
+        "depth": 25.13
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Aurora Barnes",
+          "reviewerEmail": "aurora.barnes@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ellie Stewart",
+          "reviewerEmail": "ellie.stewart@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 48,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "5503491330693",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 10.46,
+      "rating": 4.61,
+      "stock": 69,
+      "tags": [
+        "meat"
+      ],
+       "brand": "FarmFresh",
+      "sku": "G5YEHW7B",
+      "weight": 7,
+      "dimensions": {
+        "width": 15.96,
+        "height": 29.24,
+        "depth": 26.25
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Sophia Jones",
+          "reviewerEmail": "sophia.jones@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Maya Reed",
+          "reviewerEmail": "maya.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Harper Turner",
+          "reviewerEmail": "harper.turner@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 46,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "0966223559510",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+    
+        "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/2.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
+    },
+    {
+      "id": 20,
+      "title": "Cooking Oil",
+      "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+      "category": "groceries",
+      "price": 4.99,
+      "discountPercentage": 18.89,
+      "rating": 4.01,
+      "stock": 22,
+      "tags": [
+        "cooking essentials"
+      ],
+      "brand": "PureGold",
+      "sku": "Q6ZP1UY8",
+      "weight": 8,
+      "dimensions": {
+        "width": 8.18,
+        "height": 27.45,
+        "depth": 27.88
+      },
+      "warrantyInformation": "Lifetime warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Mason Parker",
+          "reviewerEmail": "mason.parker@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Jonathan Pierce",
+          "reviewerEmail": "jonathan.pierce@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Alexander Hernandez",
+          "reviewerEmail": "alexander.hernandez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 2,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "6707669443381",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
+    },
+    {
+      "id": 21,
+      "title": "Cucumber",
+      "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+      "category": "groceries",
+      "price": 1.49,
+      "discountPercentage": 11.44,
+      "rating": 4.71,
+      "stock": 22,
+      "tags": [
+        "vegetables"
+      ],
+      "brand": "GreenHarvest",
+      "sku": "6KGF2K6Z",
+      "weight": 9,
+      "dimensions": {
+        "width": 11.04,
+        "height": 20.5,
+        "depth": 8.18
+      },
+      "warrantyInformation": "5 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Elijah Hill",
+          "reviewerEmail": "elijah.hill@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Liam Garcia",
+          "reviewerEmail": "liam.garcia@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ella Cook",
+          "reviewerEmail": "ella.cook@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 7,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "2597004869708",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Cucumber/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png"
+    },
+    {
+      "id": 22,
+      "title": "Dog Food",
+      "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+      "category": "groceries",
+      "price": 10.99,
+      "discountPercentage": 18.15,
+      "rating": 2.74,
+      "stock": 40,
+      "tags": [
+        "pet supplies",
+        "dog food"
+      ],
+      "brand": "PetDelight",
+      "sku": "A6QRCH37",
+      "weight": 2,
+      "dimensions": {
+        "width": 29.39,
+        "height": 29.77,
+        "depth": 20.54
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Alexander Jones",
+          "reviewerEmail": "alexander.jones@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Addison Wright",
+          "reviewerEmail": "addison.wright@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 29,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7957222289508",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/thumbnail.png"
+    },
+    {
+      "id": 23,
+      "title": "Eggs",
+      "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+      "category": "groceries",
+      "price": 2.99,
+      "discountPercentage": 5.8,
+      "rating": 4.46,
+      "stock": 10,
+      "tags": [
+        "dairy"
+      ],
+      "brand": "HappyHen",
+      "sku": "YA617RI7",
+      "weight": 4,
+      "dimensions": {
+        "width": 12.3,
+        "height": 10.99,
+        "depth": 15.53
+      },
+      "warrantyInformation": "3 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Very unhappy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Mateo Perez",
+          "reviewerEmail": "mateo.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Cameron Perez",
+          "reviewerEmail": "cameron.perez@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Aurora Barnes",
+          "reviewerEmail": "aurora.barnes@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 43,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7095702028776",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Eggs/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png"
+    },
+    {
+      "id": 24,
+      "title": "Fish Steak",
+      "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+      "category": "groceries",
+      "price": 14.99,
+      "discountPercentage": 7,
+      "rating": 4.83,
+      "stock": 99,
+      "tags": [
+        "seafood"
+      ],
+      "brand": "FarmFresh",
+      "sku": "XNIH1MTA",
+      "weight": 8,
+      "dimensions": {
+        "width": 20.14,
+        "height": 8.4,
+        "depth": 10.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great value for money!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Michael Johnson",
+          "reviewerEmail": "michael.johnson@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Julian Newton",
+          "reviewerEmail": "julian.newton@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Lila Hudson",
+          "reviewerEmail": "lila.hudson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 49,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "4250692197342",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png"
+    },
+    {
+      "id": 25,
+      "title": "Green Bell Pepper",
+      "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+      "category": "groceries",
+      "price": 1.29,
+      "discountPercentage": 15.5,
+      "rating": 4.28,
+      "stock": 89,
+      "tags": [
+        "vegetables"
+      ],
+      "brand": "VeggieFresh",
+      "sku": "HU7S7VQ0",
+      "weight": 7,
+      "dimensions": {
+        "width": 7.32,
+        "height": 14.31,
+        "depth": 21.38
+      },
+      "warrantyInformation": "5 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Maya Reed",
+          "reviewerEmail": "maya.reed@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Madison Collins",
+          "reviewerEmail": "madison.collins@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Would buy again!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ethan Thompson",
+          "reviewerEmail": "ethan.thompson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "7583442707568",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png"
+    },
+    {
+      "id": 26,
+      "title": "Green Chili Pepper",
+      "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+      "category": "groceries",
+      "price": 1,
+      "discountPercentage": 18.51,
+      "rating": 4.43,
+      "stock": 8,
+      "tags": [
+        "vegetables"
+      ],
+      "brand": "VeggieFresh",
+      "sku": "Y4RM3JCB",
+      "weight": 2,
+      "dimensions": {
+        "width": 18.67,
+        "height": 21.17,
+        "depth": 25.26
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Natalie Price",
+          "reviewerEmail": "natalie.price@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Avery Barnes",
+          "reviewerEmail": "avery.barnes@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 43,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "8400326844874",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png"
+    },
+    {
+      "id": 27,
+      "title": "Honey Jar",
+      "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+      "category": "groceries",
+      "price": 6.99,
+      "discountPercentage": 1.91,
+      "rating": 3.5,
+      "stock": 25,
+      "tags": [
+        "condiments"
+      ],
+      "brand": "GoldenBee",
+      "sku": "BTBNIIOU",
+      "weight": 9,
+      "dimensions": {
+        "width": 26.53,
+        "height": 27.11,
+        "depth": 6.63
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships overnight",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Fast shipping!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Nicholas Bailey",
+          "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Awesome product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Gabriel Hayes",
+          "reviewerEmail": "gabriel.hayes@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "James Garcia",
+          "reviewerEmail": "james.garcia@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "0668665656044",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png"
+    },
+    {
+      "id": 28,
+      "title": "Ice Cream",
+      "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+      "category": "groceries",
+      "price": 5.49,
+      "discountPercentage": 7.58,
+      "rating": 3.77,
+      "stock": 76,
+      "tags": [
+        "desserts"
+      ],
+      "brand": "CreamyDelight",
+      "sku": "VEZMU1EQ",
+      "weight": 5,
+      "dimensions": {
+        "width": 17.66,
+        "height": 24.49,
+        "depth": 25.98
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Elena Baker",
+          "reviewerEmail": "elena.baker@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Highly impressed!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Madeline Simpson",
+          "reviewerEmail": "madeline.simpson@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very happy with my purchase!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Caleb Nelson",
+          "reviewerEmail": "caleb.nelson@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "No return policy",
+      "minimumOrderQuantity": 19,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "9603960319256",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        
+        "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/2.png"
+       
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png"
+    },
+    {
+      "id": 29,
+      "title": "Juice",
+      "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+      "category": "groceries",
+      "price": 3.99,
+      "discountPercentage": 5.45,
+      "rating": 3.41,
+      "stock": 99,
+      "tags": [
+        "beverages"
+      ],
+       "brand": "FruitBurst",
+      "sku": "M2K19S06",
+      "weight": 2,
+      "dimensions": {
+        "width": 8.97,
+        "height": 12.26,
+        "depth": 15.05
+      },
+      "warrantyInformation": "1 week warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Leo Rivera",
+          "reviewerEmail": "leo.rivera@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Not worth the price!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Ethan Martinez",
+          "reviewerEmail": "ethan.martinez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Excellent quality!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Max Parker",
+          "reviewerEmail": "max.parker@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "90 days return policy",
+      "minimumOrderQuantity": 26,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "8546824122355",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png"
+    },
+    {
+      "id": 30,
+      "title": "Kiwi",
+      "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+      "category": "groceries",
+      "price": 2.49,
+      "discountPercentage": 10.32,
+      "rating": 4.37,
+      "stock": 1,
+      "tags": [
+        "fruits"
+      ],
+      "brand": "FruitBurst",
+      "sku": "0X3NORB9",
+      "weight": 8,
+      "dimensions": {
+        "width": 27.3,
+        "height": 7.48,
+        "depth": 15.08
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Nora Russell",
+          "reviewerEmail": "nora.russell@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Very pleased!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Dylan Wells",
+          "reviewerEmail": "dylan.wells@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2024-05-23T08:56:21.620Z",
+          "reviewerName": "Noah Hernandez",
+          "reviewerEmail": "noah.hernandez@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 8,
+      "meta": {
+        "createdAt": "2024-05-23T08:56:21.620Z",
+        "updatedAt": "2024-05-23T08:56:21.620Z",
+        "barcode": "3325493172934",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png"
+    },
+     {
+  "id": 31,
+  "title": "WinterShield - Men's Classic Puffer Jacket",
+  "description": "Stay warm and stylish with this insulated puffer jacket. Designed for everyday winter wear, it's windproof and water-resistant.",
+  "category": "men-wear",
+  "price": 49.99,
+  "discountPercentage": 10.00,
+  "rating": 4.7,
+  "stock": 35,
+  "tags": ["clothing", "jacket", "men"],
+  "brand": "WinterShield",
+  "sku": "WSJ001",
+  "weight": 950,
+  "dimensions": {
+    "width": 40,
+    "height": 60,
+    "depth": 5
+  },
+  "warrantyInformation": "6 months manufacturer warranty",
+  "shippingInformation": "Ships in 3-5 business days",
+  "availabilityStatus": "In Stock",
+  "reviews": [
+    {
+      "rating": 5,
+      "comment": "Perfect for cold weather, very comfortable.",
+      "date": "2024-12-20T10:00:00.000Z",
+      "reviewerName": "Mark Smith",
+      "reviewerEmail": "mark.smith@example.com"
+    }
+  ],
+  "returnPolicy": "15 days return policy",
+  "minimumOrderQuantity": 1,
+  "meta": {
+    "createdAt": "2024-12-20T10:00:00.000Z",
+    "updatedAt": "2024-12-20T10:00:00.000Z",
+    "barcode": "1234567890456",
+    "qrCode": "https://assets.example.com/public/qr-code.png"
+  },
+  "images": [
+    "https://imgs.search.brave.com/SLCOojG78bUZgvsZBP8ONkcv2emLSC6QpCboEreheec/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG5p/LmxsYmVhbi5uZXQv/aXMvaW1hZ2Uvd2lt/LzUxMjQwNl81NTE5/OV83MD9oZWk9MTA5/NSZ3aWQ9OTUwJnJl/c01vZGU9c2hhcnAy/JmRlZmF1bHRJbWFn/ZT1sbGJwcm9kLzUx/MjQwNl81NTE5OV80/MQ"
+  ],
+  "thumbnail": "YOUR_THUMBNAIL_LINK_HERE"
+},
+      {
+        "id": 32,
+        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "description":  "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing.",
+        "category": "men-wear",
+        "price": 39.99,
+        "discountPercentage": 10.00,
+        "rating": 4.5,
+        "stock": 30,
+        "tags": ["clothing", "jeans", "men"],
+        "brand": "DenimCo",
+        "sku": "DCJ002",
+        "weight": 600,
+        "dimensions": {
+          "width": 40,
+          "height": 30,
+          "depth": 2
+        },
+        "warrantyInformation": "6 months warranty",
+        "shippingInformation": "Ships in 2-3 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Fit well but a bit long.",
+            "date": "2024-12-21T11:30:00.000Z",
+            "reviewerName": "John Doe",
+            "reviewerEmail": "john.doe@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-21T11:30:00.000Z",
+          "updatedAt": "2024-12-21T11:30:00.000Z",
+          "barcode": "1234567890124",
+          "qrCode": "https://assets.example.com/public/qr-code.png"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/I/61e-CHbYhyL._AC_UY1100_.jpg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/casual-blue-jeans/thumbnail.png"
+      },
+      
+      {
+        "id": 33,
+        "title": "Mens Cotton Jacket",
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. ",
+        "category": "men-wear",
+        "price": 49.99,
+        "discountPercentage": 15.00,
+        "rating": 4.9,
+        "stock": 25,
+        "tags": ["clothing", "hoodie", "men"],
+        "brand": "HoodieWear",
+        "sku": "HW003",
+        "weight": 700,
+        "dimensions": {
+          "width": 40,
+          "height": 60,
+          "depth": 2
+        },
+        "warrantyInformation": "1 year warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+              "comment": "Super comfortable and warm!",
+              "date": "2024-12-22T09:15:00.000Z",
+              "reviewerName": "Tom Brown",
+              "reviewerEmail": "tom.brown@example.com"
+            }
+          ],
+          "returnPolicy": "30 days return policy",
+          "minimumOrderQuantity": 1,
+          "meta": {
+            "createdAt": "2024-12-22T09:15:00.000Z",
+            "updatedAt": "2024-12-22T09:15:00.000Z",
+            "barcode": "1234567890125",
+            "qrCode": "https://assets.example.com/public/qr-code.png"
+          },
+          "images": [
+           "https://images-cdn.ubuy.co.in/6537d66ff37a020b552e9322-tacvasen-men-39-s-cotton-jackets-winter.jpg"
+          ],
+          "thumbnail": "https://cdn.example.com/products/images/clothing/stylish-black-hoodie/thumbnail.png"
+        },
+        
+        {
+          "id": 34,
+          "title": "Mens Casual Slim Fit",
+          "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+          "category": "men-wear",
+          "price": 199.99,
+          "discountPercentage": 20.00,
+          "rating": 4.7,
+          "stock": 10,
+          "tags": ["clothing", "suit", "men"],
+          "brand": "SuitCo",
+          "sku": "SC004",
+          "weight": 1200,
+          "dimensions": {
+            "width": 50,
+            "height": 100,
+            "depth": 5
+          },
+          "warrantyInformation": "1 year warranty",
+          "shippingInformation": "Ships in 5-7 business days",
+          "availabilityStatus": "In Stock",
+          "reviews": [
+            {
+              "rating": 5,
+              "comment": "Perfect fit and great quality!",
+              "date": "2024-12-23T10:00:00.000Z",
+              "reviewerName": "James Wilson",
+              "reviewerEmail": "james.wilson@example.com"
+            }
+          ],
+          "returnPolicy": "30 days return policy",
+          "minimumOrderQuantity": 1,
+          "meta": {
+            "createdAt": "2024-12-23T10:00:00.000Z",
+            "updatedAt": "2024-12-23T10:00:00.000Z",
+            "barcode": "1234567890126",
+            "qrCode": "https://assets.example.com/public/qr-code.png"
+          },
+          "images": [
+            "https://5.imimg.com/data5/OT/NK/MY-37453636/mens-casual-slim-fit-plain-shirt-500x500.jpg"
+          ],
+          "thumbnail": "https://cdn.example.com/products/images/clothing/formal-grey-suit/thumbnail.png"
+        },
+        
+        {
+          "id": 35,
+          "title": "Fjallraven - Foldsack No. 2 Backpack, Fits 15 Laptops",
+          "description": "A stylish and functional backpack for everyday use. Fits laptops up to 15 inches.",
+          "category": "men-wear",
+          "price": 59.99,
+          "discountPercentage": 15.00,
+          "rating": 4.6,
+          "stock": 40,
+          "tags": ["clothing", "sneakers", "men"],
+          "brand": "SneakerCo",
+          "sku": "SNE005",
+          "weight": 800,
+          "dimensions": {
+            "width": 30,
+            "height": 15,
+            "depth": 10
+          },
+          "warrantyInformation": "6 months warranty",
+          "shippingInformation": "Ships in 3-5 business days",
+          "availabilityStatus": "In Stock",
+          "reviews": [
+            {
+              "rating": 4,
+              "comment": "Very comfortable for daily use.",
+              "date": "2024-12-24T11:30:00.000Z",
+              "reviewerName": "David Lee",
+              "reviewerEmail": "david.lee@example.com"
+            }
+          ],
+          "returnPolicy": "30 days return policy",
+          "minimumOrderQuantity": 1,
+          "meta": {
+            "createdAt": "2024-12-24T11:30:00.000Z",
+            "updatedAt": "2024-12-24T11:30:00.000Z",
+            "barcode": "1234567890127",
+            "qrCode": "https://assets.example.com/public/qr-code.png"
+          },
+          "images": [
+
+            "https://fjallraven.in/cdn/shop/files/Kanken_No_2_Black_Laptop_15_23804-550_D_MODEL_FJR.jpg?v=1712226311"          
+          ],
+          "thumbnail": "https://cdn.example.com/products/images/clothing/comfortable-sneakers/thumbnail.png"
+        },
+        
+        {
+          "id": 36,
+          "title": "Mens Casual Premium Slim Fit Long Sleeve T-Shirts",
+          "description": "Comfortable and stylish long sleeve t-shirt for casual wear.",
+          "category": "men-wear",
+          "price": 29.99,
+          "discountPercentage": 10.00,
+          "rating": 4.4,
+          "stock": 35,
+          "tags": ["clothing", "shorts", "men"],
+          "brand": "SummerWear",
+          "sku": "SW006",
+          "weight": 300,
+          "dimensions": {
+            "width": 40,
+            "height": 30,
+            "depth": 1
+          },
+          "warrantyInformation": "No warranty",
+          "shippingInformation": "Ships in 3-5 business days",
+          "availabilityStatus": "In Stock",
+          "reviews": [
+            {
+              "rating": 5,
+              "comment": "Great for the beach!",
+              "date": "2024-12-25T10:00:00.000Z",
+              "reviewerName": "Chris Green",
+              "reviewerEmail": "chris.green@example.com"
+            }
+          ],
+          "returnPolicy": "30 days return policy",
+          "minimumOrderQuantity": 1,
+          "meta": {
+            "createdAt": "2024-12-25T10:00:00.000Z",
+            "updatedAt": "2024-12-25T10:00:00.000Z",
+            "barcode": "1234567890128",
+            "qrCode": "https://assets.example.com/public/qr-code.png"
+          },
+          "images": [
+          "https://www.jiomart.com/images/product/500x630/rvfbnl4x10/dafabfit-premium-dotknit-solid-blue-color-full-sleeves-round-neck-slim-fit-casual-t-shirt-for-men-product-images-rvfbnl4x10-0-202312190301.jpg" 
+         ],
+          "thumbnail": "https://cdn.example.com/products/images/clothing/lightweight-summer-shorts/thumbnail.png"
+        },
+        
+        {
+          "id": 37,
+          "title":"Mens Lightweight Jacket",
+          "description": "Perfect for spring and autumn, this lightweight jacket is versatile and stylish.",
+          "category": "men-wear",
+          "price": 24.99,
+          "discountPercentage": 5.00,
+          "rating": 4.8,
+          "stock": 60,
+          "tags": ["clothing", "belt", "men"],
+          "brand": "BeltCo",
+          "sku": "BLT007",
+          "weight": 150,
+          "dimensions": {
+            "width": 5,
+            "height": 120,
+            "depth": 1
+          },
+          "warrantyInformation": "No warranty",
+          "shippingInformation": "Ships in 3-5 business days",
+          "availabilityStatus": "In Stock",
+          "reviews": [
+            {
+              "rating": 5,
+              "comment": "Very stylish and sturdy!",
+              "date": "2024-12-26T10:00:00.000Z",
+              "reviewerName": "Michael Brown",
+              "reviewerEmail": "michael.brown@example.com"
+            }
+          ],
+          "returnPolicy": "30 days return policy",
+          "minimumOrderQuantity": 1,
+          "meta": {
+            "createdAt": "2024-12-26T10:00:00.000Z",
+            "updatedAt": "2024-12-26T10:00:00.000Z",
+            "barcode": "1234567890129",
+            "qrCode": "https://assets.example.com/public/qr-code.png"
+          },
+          "images": [
+         "https://images-cdn.ubuy.co.in/65390c858430916d48152fc0-womleys-mens-casual-windbreaker.jpg"
+          ],
+          "thumbnail": "https://cdn.example.com/products/images/clothing/classic-leather-belt/thumbnail.png"
+        },
+        
+        {
+          "id": 38,
+          "title": "Mens Casual Slim Fit Jeans",
+          "description":  "Stylish and comfortable slim fit jeans for everyday wear.",
+          "category": "men-wear",
+          "price": 89.99,
+          "discountPercentage": 15.00,
+          "rating": 4.6,
+          "stock": 15,
+          "tags": ["clothing", "jacket", "men"],
+          "brand": "WinterWear",
+          "sku": "WW008",
+          "weight": 1000,
+          "dimensions": {
+            "width": 50,
+     "height": 80,
+          "depth": 5
+        },
+        "warrantyInformation": "1 year warranty",
+        "shippingInformation": "Ships in 5-7 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Keeps me warm and looks great!",
+            "date": "2024-12-27T10:00:00.000Z",
+            "reviewerName": "Robert White",
+            "reviewerEmail": "robert.white@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-27T10:00:00.000Z",
+          "updatedAt": "2024-12-27T10:00:00.000Z",
+          "barcode": "1234567890130",
+          "qrCode": "https://assets.example.com/public/qr-code.png"
+        },
+        "images": [
+       "https://tiimg.tistatic.com/fp/1/007/873/casual-wear-comfortable-breathable-skinny-fit-black-denim-jeans--777.jpg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/warm-winter-jacket/thumbnail.png"
+      },
+      
+      {
+        "id": 39,
+        "title": "Adidas Men's Sports T-Shirt",
+        "description": "Breathable and moisture-wicking sports t-shirt for men.",
+        "category": "men-wear",
+        "price": 69.99,
+        "discountPercentage": 10.00,
+        "rating": 4.7,
+        "stock": 20,
+        "tags": ["clothing", "shoes", "men"],
+        "brand": "RunFast",
+        "sku": "RF009",
+        "weight": 700,
+        "dimensions": {
+          "width": 30,
+          "height": 15,
+          "depth": 10
+        },
+        "warrantyInformation": "6 months warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Perfect for my morning runs!",
+            "date": "2024-12-28T10:00:00.000Z",
+            "reviewerName": "Steve Black",
+            "reviewerEmail": "steve.black@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-28T10:00:00.000Z",
+          "updatedAt": "2024-12-28T10:00:00.000Z",
+          "barcode": "1234567890131",
+          "qrCode": "https://assets.example.com/public/qr-code.png"
+        },
+        "images": [
+       "https://rukminim2.flixcart.com/image/850/1000/kfoapow0-0/t-shirt/i/l/d/l-dp2875-adidas-original-imafw2kyzfuzh8ea.jpeg?q=90&crop=false"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/athletic-running-shoes/thumbnail.png"
+      },
+      
+      {
+        "id": 40,
+        "title": "Under Armour Men's Training Shorts",
+        "description": "Lightweight training shorts for men, perfect for workouts.",
+        "category": "men-wear",
+        "price": 24.99,
+        "discountPercentage": 5.00,
+        "rating": 4.5,
+        "stock": 45,
+        "tags": ["clothing", "t-shirt", "men"],
+        "brand": "GraphicWear",
+        "sku": "GW010",
+        "weight": 200,
+        "dimensions": {
+          "width": 30,
+          "height": 25,
+          "depth": 1
+        },
+        "warrantyInformation": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Love the design!",
+            "date": "2024-12-29T10:00:00.000Z",
+            "reviewerName": "Kevin Gray",
+            "reviewerEmail": "kevin.gray@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-29T10:00:00.000Z",
+          "updatedAt": "2024-12 -29T10:00:00.000Z",
+          "barcode": "1234567890132",
+          "qrCode": "https://assets.example.com/public/qr-code.png"
+        },
+        "images": [
+        "https://www.underarmour.in/media/catalog/product/cache/a6c9600f6d89dc76028bfa07e5e1eb9a/1/3/1384217-120240614104439190.jpeg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/trendy-graphic-tee/thumbnail.png"
+      },
+      
+      {
+        "id": 41,
+        "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. ",
+        "category": "women-wear",
+        "price": 49.99,
+        "discountPercentage": 15.00,
+        "rating": 4.5,
+        "stock": 30,
+        "tags": ["clothing", "dress", "women"],
+        "brand": "FloraStyle",
+        "sku": "FS001",
+        "weight": 300,
+        "dimensions": {
+          "width": 50,
+          "height": 120,
+          "depth": 1
+        },
+        "warrantyInformation": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Absolutely love this dress! Perfect for any occasion.",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Emily Johnson",
+            "reviewerEmail": "emily.johnson@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890134",
+          "qrCode": "https://assets.example.com/public/qr-code-1.png"
+        },
+        "images": [
+        "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/floral-maxi-dress/thumbnail.png"
+      },
+      {
+        "id": 42,
+        "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front.",
+        "category": "women-wear",
+        "price": 59.99,
+        "discountPercentage": 20.00,
+        "rating": 4.7,
+        "stock": 15,
+        "tags": ["clothing", "jacket", "women"],
+        "brand": "DenimCo",
+        "sku": "DC002",
+        "weight": 600,
+        "dimensions": {
+          "width": 45,
+          "height": 60,
+          "depth": 2
+        },
+        "warrantyInformation": "1 year warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Great quality and fits well.",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Sarah Smith",
+            "reviewerEmail": "sarah.smith@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890135",
+          "qrCode": "https://assets.example.com/public/qr-code-2.png"
+        },
+        "images": [
+          "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/denim-jacket/thumbnail.png"
+      },
+      {
+        "id": 43,
+        "title":  "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+        "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. ",
+        "category": "women-wear",
+        "price": 79.99,
+        "discountPercentage": 10.00,
+        "rating": 4.6,
+        "stock": 20,
+        "tags": ["clothing", "blazer", "women"],
+        "brand": "ChicWear",
+        "sku": "CW003",
+        "weight": 400,
+        "dimensions": {
+          "width": 40,
+          "height": 70,
+          "depth": 3
+        },
+        "warrantyInformation": "6 months warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": " In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Perfect for work and casual outings.",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Jessica Taylor",
+            "reviewerEmail": "jessica.taylor@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890136",
+          "qrCode": "https://assets.example.com/public/qr-code-3.png"
+        },
+        "images": [
+          "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/chic-blazer/thumbnail.png"
+      },
+      {
+        "id": 44,
+        "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+        "description":"95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+        "category": "women-wear",
+        "price": 19.99,
+        "discountPercentage": 5.00,
+        "rating": 4.2,
+        "stock": 50,
+        "tags": ["clothing", "t-shirt", "women"],
+        "brand": "CasualWear",
+        "sku": "CW004",
+        "weight": 200,
+        "dimensions": {
+          "width": 45,
+          "height": 70,
+          "depth": 1
+        },
+        "warrantyInformation": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Great fit and very soft material.",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Laura Green",
+            "reviewerEmail": "laura.green@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890137",
+          "qrCode": "https://assets.example.com/public/qr-code-4.png"
+        },
+        "images": [
+         "https://m.media-amazon.com/images/I/41dpkYhbyoL._AC_SY350_.jpg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/casual-t-shirt/thumbnail.png"
+      },
+      {
+        "id": 45,
+        "title":"Opna Women's Short Sleeve Moisture",
+        "description": "100% Polyester, Machine wash, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away",
+        "category": "women-wear",
+        "price": 29.99,
+        "discountPercentage": 10.00,
+        "rating": 4.4,
+        "stock": 40,
+        "tags": ["clothing", "shorts", "women"],
+        "brand": "SummerStyle",
+        "sku": "SS005",
+        "weight": 250,
+        "dimensions": {
+          "width": 35,
+          "height": 30,
+          "depth": 1
+        },
+        "warrantyInformation": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Perfect for the beach!",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Megan Brown",
+            "reviewerEmail": "megan.brown@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890138",
+          "qrCode": "https://assets.example.com/public/qr-code-5.png"
+        },
+        "images": [
+         "https://images-eu.ssl-images-amazon.com/images/I/71T0ucwYasL._AC_SR462,693_.jpg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/summer-shorts/thumbnail.png"
+      },
+      {
+        "id": 46,
+        "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+        "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print, V-Neck,Fashion Tees",
+        "category": "women-wear",
+        "price": 99.99,
+        "discountPercentage": 20.00,
+        "rating": 4.8,
+        "stock": 10,
+        "tags": ["clothing", "gown", "women"],
+        "brand": "GlamourWear",
+        "sku": "GW006",
+        "weight": 800,
+        "dimensions": {
+          "width": 60,
+          "height": 150,
+          "depth": 2
+        },
+        "warrantyInformation": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Absolutely gorgeous! Received so many compliments.",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Olivia White",
+            "reviewerEmail": "olivia.white@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890139",
+          "qrCode": "https://assets.example.com/public/qr-code-6.png"
+        },
+        "images": [
+         "https://m.media-amazon.com/images/I/71WEqIY0l4L._SX425_.jpg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/elegant-evening-gown/thumbnail.png"
+      },
+      {
+        "id": 47,
+        "title": "Nike Women's Running Shoes",
+        "description": "Lightweight and comfortable running shoes for women.",
+        "category": "women-wear",
+        "price": 34.99,
+        "discountPercentage": 15.00,
+        "rating": 4.5,
+        "stock": 35,
+        "tags": ["clothing", "leggings", "women"],
+        "brand": "ActiveWear",
+        "sku": "AW007",
+        "weight": 300,
+        "dimensions": {
+          "width": 30,
+          "height": 90,
+          "depth": 1
+        },
+        "warrantyInformation": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Very comfortable and stretchy.",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Sophia Lee",
+            "reviewerEmail": "sophia.lee@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890140",
+          "qrCode": "https://assets.example.com/public/qr-code-7.png"
+        },
+        "images": [
+         "https://images.squarespace-cdn.com/content/v1/5c641b18da50d324fa8e85f0/c062b2d1-7606-4d50-bea5-33ddc4585608/nike+women+pegasus+40+review.jpeg?format=500w"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/sporty-leggings/thumbnail.png"
+      },
+      {
+        "id": 48,
+        "title":"Women suit ",
+        "description": "Comfortable and stylish Women suit .",
+        "category": "women-wear",
+        "price": 39.99,
+        "discountPercentage": 10.00,
+        "rating": 4.3,
+        "stock": 20,
+        "tags": ["clothing", "sweater", "women"],
+        "brand": "WarmWear",
+        "sku": "WW008",
+        "weight": 500,
+        "dimensions": {
+          "width": 50,
+          "height": 60,
+          "depth": 2
+        },
+        "warrantyInformation ": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 4,
+            "comment": "Very soft and warm, perfect for winter.",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Emma Wilson",
+            "reviewerEmail": "emma.wilson@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890141",
+          "qrCode": "https://assets.example.com/public/qr-code-8.png"
+        },
+        "images": [
+          "https://assets2.andaazfashion.com/media/catalog/product/cache/1/image/800x1200/a12781a7f2ccb3d663f7fd01e1bd2e4e/w/o/woven-zari-jacquard-olive-brown-salwar-suit-lstv119588-1.jpg"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/cozy-sweater/thumbnail.png"
+      },
+      {
+        "id": 49,
+        "title": "Reebok Women's Yoga Pants",
+        "description": "Soft and stretchy yoga pants for women, ideal for workouts.",
+        "category": "women-wear",
+        "price": 69.99,
+        "discountPercentage": 15.00,
+        "rating": 4.6,
+        "stock": 12,
+        "tags": ["clothing", "jumpsuit", "women"],
+        "brand": "TrendyWear",
+        "sku": "TW009",
+        "weight": 400,
+        "dimensions": {
+          "width": 45,
+          "height": 100,
+          "depth": 2
+        },
+        "warrantyInformation": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "So comfortable and stylish! Love it!",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Ava Martinez",
+            "reviewerEmail": "ava.martinez@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890142",
+          "qrCode": "https://assets.example.com/public/qr-code-9.png"
+        },
+        "images": [
+         "data:image/jpeg;base64,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"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/stylish-jumpsuit/thumbnail.png"
+      },{
+        "id": 50,
+        "title": "Lightweight Summer Cardigan",
+        "description": "A breezy cardigan perfect for layering on warm days.",
+        "category": "women-wear",
+        "price": 34.99,
+        "discountPercentage": 10.00,
+        "rating": 4.4,
+        "stock": 25,
+        "tags": ["clothing", "cardigan", "women"],
+        "brand": "BreezyWear",
+        "sku": "BW010",
+        "weight": 250,
+        "dimensions": {
+          "width": 45,
+          "height": 80,
+          "depth": 1
+        },
+        "warrantyInformation": "No warranty",
+        "shippingInformation": "Ships in 3-5 business days",
+        "availabilityStatus": "In Stock",
+        "reviews": [
+          {
+            "rating": 5,
+            "comment": "Perfect for layering! Very light and comfortable.",
+            "date": "2024-12-30T10:00:00.000Z",
+            "reviewerName": "Chloe Adams",
+            "reviewerEmail": "chloe.adams@example.com"
+          }
+        ],
+        "returnPolicy": "30 days return policy",
+        "minimumOrderQuantity": 1,
+        "meta": {
+          "createdAt": "2024-12-30T10:00:00.000Z",
+          "updatedAt": "2024-12-30T10:00:00.000Z",
+          "barcode": "1234567890143",
+          "qrCode": "https://assets.example.com/public/qr-code-10.png"
+        },
+        "images": [
+        "https://yemaksweater.com/cdn/shop/products/HK8266-Black-1.jpg?v=1589930150"
+        ],
+        "thumbnail": "https://cdn.example.com/products/images/clothing/lightweight-summer-cardigan/thumbnail.png"
+      },
+        {
+          "id": 51,
+          "title": "Wireless Noise-Canceling Headphones",
+          "description": "High-quality noise-canceling headphones with Bluetooth connectivity.",
+          "category": "electronics",
+          "price": 199.99,
+          "discountPercentage": 15.00,
+          "rating": 4.8,
+          "stock": 50,
+          "tags": ["headphones", "wireless", "audio"],
+          "brand": "SoundMax",
+          "sku": "SM001",
+          "weight": 350,
+          "dimensions": {
+            "width": 15,
+            "height": 20,
+            "depth": 5
+          },
+          "warrantyInformation": "1 year warranty",
+          "shippingInformation": "Ships in 2-4 business days",
+          "availabilityStatus": "In Stock",
+          "reviews": [
+            {
+              "rating": 5,
+              "comment": "Excellent sound quality and very comfortable!",
+              "date": "2024-12-20T14:00:00.000Z",
+              "reviewerName": "John Doe",
+              "reviewerEmail": "john.doe@example.com"
+            }
+          ],
+          "returnPolicy": "60 days return policy",
+          "minimumOrderQuantity": 1,
+          "meta": {
+            "createdAt": "2024-12-20T14:00:00.000Z",
+            "updatedAt": "2024-12-20T14:00:00.000Z",
+            "barcode": "1234567890150",
+            "qrCode": "https://assets.example.com/public/qr-code-51.png"
+          },
+          "images": [
+            "https://images-cdn.ubuy.co.in/633aba4e38322a5829184559-bluetooth-headphones-over-ear-kvidio-55.jpg"
+          ],
+          "thumbnail": "https://example.com/images/products/headphones_thumbnail.jpg"
+        },
+        {
+          "id": 52,
+          "title": "4K Ultra HD Smart TV",
+          "description": "Experience stunning picture quality with this 55-inch 4K Ultra HD Smart TV.",
+          "category": "electronics",
+          "price": 499.99,
+          "discountPercentage": 20.00,
+          "rating": 4.7,
+          "stock": 30,
+          "tags": ["tv", "4K", "smart"],
+          "brand": "VisionTech",
+          "sku": "VT002",
+          "weight": 15000,
+          "dimensions": {
+            "width": 124,
+            "height": 71,
+            "depth": 10
+          },
+          "warrantyInformation": "2 years warranty",
+          "shippingInformation": "Ships in 5-7 business days",
+          "availabilityStatus": "In Stock",
+          "reviews": [
+            {
+              "rating": 5,
+              "comment": "Amazing clarity and user-friendly interface.",
+              "date": "2024-12-18T12:00:00.000Z",
+              "reviewerName": "Emily Green",
+              "reviewerEmail": "emily.green@example.com"
+            }
+          ],
+          "returnPolicy": "30 days return policy",
+          "minimumOrderQuantity": 1,
+          "meta": {
+            "createdAt": "2024-12-18T12:00:00.000Z",
+            "updatedAt": "2024-12-18T12:00:00.000Z",
+            "barcode": "1234567890151",
+            "qrCode": "https://assets.example.com/public/qr-code-52.png"
+          },
+          "images": [
+            "https://storage.googleapis.com/afriven-storage/production/1705173674504-5a6f2633-1097-4eb8-bd2d-4566bc730d0c"
+          ],
+          "thumbnail": "https://example.com/images/products/tv_thumbnail.jpg"
+        },
+        
+          {
+            "id": 53,
+            "title": "Smartwatch with Heart Rate Monitor",
+            "description": "Stay connected and track your health with this stylish smartwatch.",
+            "category": "electronics",
+            "price": 149.99,
+            "discountPercentage": 10.00,
+            "rating": 4.5,
+            "stock": 75,
+            "tags": ["smartwatch", "fitness", "wearable"],
+            "brand": "FitTrack",
+            "sku": "FT003",
+            "weight": 200,
+            "dimensions": {
+              "width": 4,
+              "height": 4,
+              "depth": 1
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 4,
+                "comment": "Great features for the price, but battery life could be better.",
+                "date": "2024-12-15T10:00:00.000Z",
+                "reviewerName": "Alice Smith",
+                "reviewerEmail": "alice.smith@example.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-12-15T10:00:00.000Z",
+              "updatedAt": "2024-12-15T10:00:00.000Z",
+              "barcode": "1234567890152",
+              "qrCode": "https://assets.example.com/public/qr-code-53.png"
+            },
+            "images": [
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYp6RKSZByQdzQ3cAhbcVnLblYAH3du9sOQ&s"
+            ],
+            "thumbnail": "https://example.com/images/products/smartwatch_thumbnail.jpg"
+          },
+          {
+            "id": 54,
+            "title": "Portable Bluetooth Speaker",
+            "description": "Compact and powerful Bluetooth speaker with deep bass.",
+            "category": "electronics",
+            "price": 79.99,
+            "discountPercentage": 5.00,
+            "rating": 4.6,
+            "stock": 100,
+            "tags": ["speaker", "bluetooth", "audio"],
+            "brand": "SoundWave",
+            "sku": "SW004",
+            "weight": 500,
+            "dimensions": {
+              "width": 10,
+              "height": 10,
+              "depth": 10
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 2-4 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Incredible sound quality for such a small speaker!",
+                "date": "2024-12-14T09:00:00.000Z",
+                "reviewerName": "Mark Johnson",
+                "reviewerEmail": "mark.johnson@example.com"
+              }
+            ],
+            "returnPolicy": "60 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-12-14T09:00:00.000Z",
+              "updatedAt": "2024-12-14T09:00:00.000Z",
+              "barcode": "1234567890153",
+              "qrCode": "https://assets.example.com/public/qr-code-54.png"
+            },
+            "images": [
+              "https://www.portronics.com/cdn/shop/files/portronics_sounddrum_p_mobile_speaker.jpg?v=1732797483&width=1445"
+            ],
+            "thumbnail": "https://example.com/images/products/speaker_thumbnail.jpg"
+          },
+          {
+            "id": 55,
+            "title": "Gaming Mouse with RGB Lighting",
+            "description": "High-precision gaming mouse with customizable RGB lighting.",
+            "category": "electronics",
+            "price": 59.99,
+            "discountPercentage": 15.00,
+            "rating": 4.9,
+            "stock": 40,
+            "tags": ["gaming", "mouse", "RGB"],
+            "brand": "GamePro",
+            "sku": "GP005",
+            "weight": 150,
+            "dimensions": {
+              "width": 12,
+              "height": 4,
+              "depth": 8
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Best gaming mouse I've ever used!",
+                "date": "2024-12-13T11: 00:00.000Z",
+                "reviewerName": "Chris Lee",
+                "reviewerEmail": "chris.lee@example.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-12-13T11:00:00.000Z",
+              "updatedAt": "2024-12-13T11:00:00.000Z",
+              "barcode": "1234567890154",
+              "qrCode": "https://assets.example.com/public/qr-code-55.png"
+            },
+            "images": [
+              "https://www.jiomart.com/images/product/original/rvdukxjtan/entwino-d1-gaming-mouse-for-laptop-gaming-pc-usb-wired-rgb-lights-optical-mouse-for-computer-product-images-orvdukxjtan-p594705374-0-202210202205.jpg?im=Resize=(1000,1000)"
+            ],
+            "thumbnail": "https://example.com/images/products/gaming_mouse_thumbnail.jpg"
+          },
+          {
+            "id": 56,
+            "title": "Wireless Charging Pad",
+            "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+            "category": "electronics",
+            "price": 29.99,
+            "discountPercentage": 10.00,
+            "rating": 4.4,
+            "stock": 150,
+            "tags": ["charger", "wireless", "accessory"],
+            "brand": "ChargePro",
+            "sku": "CP006",
+            "weight": 100,
+            "dimensions": {
+              "width": 10,
+              "height": 1,
+              "depth": 10
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 2-4 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 4,
+                "comment": "Works well, but a bit slow compared to wired charging.",
+                "date": "2024-12-12T08:00:00.000Z",
+                "reviewerName": "Sarah Brown",
+                "reviewerEmail": "sarah.brown@example.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-12-12T08:00:00.000Z",
+              "updatedAt": "2024-12-12T08:00:00.000Z",
+              "barcode": "1234567890155",
+              "qrCode": "https://assets.example.com/public/qr-code-56.png"
+            },
+            "images": [
+              "https://www.cnet.com/a/img/resize/8dfd582b861be518dcb968d1f1b6de01ef114961/hub/2023/02/28/9da2e9c7-d07d-45cb-89d1-18c7013249e5/anker-315-wireless-charger.png?auto=webp&fit=crop&height=900&width=1200"
+            ],
+            "thumbnail": "https://example.com/images/products/wireless_charger_thumbnail.jpg"
+          },
+          {
+            "id": 57,
+            "title": "External Hard Drive 2TB",
+            "description": "High-capacity external hard drive for secure data storage.",
+            "category": "electronics",
+            "price": 89.99,
+            "discountPercentage": 15.00,
+            "rating": 4.8,
+            "stock": 60,
+            "tags": ["storage", "hard drive", "external"],
+            "brand": "DataSafe",
+            "sku": "DS007",
+            "weight": 250,
+            "dimensions": {
+              "width": 12,
+              "height": 8,
+              "depth": 2
+            },
+            "warrantyInformation": "2 years warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Perfect for backing up my files, very reliable.",
+                "date": "2024-12-10T15:00:00.000Z",
+                "reviewerName": "David Wilson",
+                "reviewerEmail": "david.wilson@example.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-12-10T15:00:00.000Z",
+              "updatedAt": "2024-12-10T15:00:00.000Z",
+              "barcode": "1234567890156",
+              "qrCode": "https://assets.example.com/public/qr-code-57.png"
+            },
+            "images": [
+              "https://cdn.moglix.com/p/OHCwoz8HO1Mue-xxlarge.jpg"
+            ],
+            "thumbnail": "https://example.com/images/products/external_hard_drive_thumbnail.jpg"
+          },
+          {
+            "id": 58,
+            "title": "4K Action Camera",
+            "description": "Capture stunning 4K videos and photos with this compact action camera.",
+            "category": "electronics",
+            "price": 199.99,
+            "discountPercentage": 20.00,
+            "rating": 4.6,
+            "stock": 25,
+            "tags": ["camera", "4K", "action"],
+            "brand": "AdventureCam",
+            "sku": "AC008",
+            "weight": 300,
+            "dimensions": {
+              "width": 6,
+              "height": 4,
+              "depth": 3
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 5-7 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Amazing quality for the price, perfect for my trips!",
+                "date": "2024-12-09T14:00:00.000Z",
+                "reviewerName": "Tom Harris",
+                "reviewerEmail": "tom.harris@example.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-12-09T14:00:00.000Z",
+              "updatedAt": "2024-12-09T14:00:00.000Z",
+              "barcode": "1234567890157",
+              "qrCode": "https://assets.example.com/public/qr-code-58.png"
+            },
+            "images": [
+              "https://cason.in/cdn/shop/products/cason-cs6-action-camera-4k-dual-screen-with-accessories-kitaction-cameracsn-cs6-dual-screen-action-camera-443533.jpg?v=1682156223"
+            ],
+            "thumbnail": "https://example.com/images/products/action_camera_thumbnail.jpg"
+          },
+          {
+            "id": 59,
+            "title": "Smart Home Security Camera",
+            "description": "Keep your home safe with this smart security camera featuring night vision.",
+            "category": "electronics",
+            "price": 129.99,
+            "discountPercentage": 15.00,
+            "rating": 4.7,
+            "stock": 80,
+            "tags": ["security", "camera", "smart home"],
+            "brand": "SecureHome",
+            "sku": "SH009",
+            "weight": 500,
+            "dimensions": {
+              "width": 10,
+              "height": 10,
+              "depth": 12
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 5,
+                "comment": "Easy to set up and great video quality!",
+                "date": "2024-12-08T11:00:00.000Z",
+                "reviewerName": "Laura White",
+                "reviewerEmail": "laura.white@example.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-12-08T11:00:00.000Z",
+              "updatedAt": "2024-12-08T11:00:00.000Z",
+              "barcode": "1234567890158",
+              "qrCode": "https://assets.example.com/public/qr-code-59.png"
+            },
+            "images": [
+              "https://mfs.ezvizlife.com/4a62834c0533684e0a3b61111e7d335d.jpg?ver=6327693019"
+            ],
+            "thumbnail": "https://example.com/images/products/security_camera_thumbnail.jpg"
+          },
+          
+          {
+            "id": 60,
+            "title": "Smartwatch with Heart Rate Monitor",
+            "description": "Stay connected and track your health with this stylish smartwatch.",
+            "category": "electronics",
+            "price": 149.99,
+            "discountPercentage": 10.00,
+            "rating": 4.5,
+            "stock": 75,
+            "tags": ["smartwatch", "fitness", "wearable"],
+            "brand": "FitTrack",
+            "sku": "FT003",
+            "weight": 200,
+            "dimensions": {
+              "width": 4,
+              "height": 4,
+              "depth": 1
+            },
+            "warrantyInformation": "1 year warranty",
+            "shippingInformation": "Ships in 3-5 business days",
+            "availabilityStatus": "In Stock",
+            "reviews": [
+              {
+                "rating": 4,
+                "comment": "Great features for the price, but battery life could be better.",
+                "date": "2024-12-15T10:00:00.000Z",
+                "reviewerName": "Alice Smith",
+                "reviewerEmail": "alice.smith@example.com"
+              }
+            ],
+            "returnPolicy": "30 days return policy",
+            "minimumOrderQuantity": 1,
+            "meta": {
+              "createdAt": "2024-12-15T10:00:00.000Z",
+              "updatedAt": "2024-12-15T10:00:00.000Z",
+              "barcode": "1234567890152",
+              "qrCode": "https://assets.example.com/public/qr-code-53.png"
+            },
+            "images": [
+              "https://rukminim2.flixcart.com/image/850/1000/xif0q/smartwatch/w/f/9/1-3-id116-android-ios-remaxa-yes-original-imagdugnysh4rfux.jpeg?q=90&crop=false"
+            ],
+            "thumbnail": "https://example.com/images/products/smartwatch_thumbnail.jpg"
+          }
+      ]
+} 
