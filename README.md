@@ -1,6 +1,7 @@
 # 🛒 GrabIt Ecommerce Website
 
-![GrabIt Banner](./screenshots/banner.png) <!-- Replace with your actual image path -->
+
+![image alt]([./screenshots/banner.png](https://github.com/ashishthakur113/GrabIt-ecommerce/blob/main/ecommerce_collage.png)) 
 
 **GrabIt** is a fully responsive, modern e-commerce web application built using **React + Vite**. It offers a smooth shopping experience with dynamic product categories, real-time cart/wishlist updates, and user authentication. From animated transitions to search suggestions and a live order tracking interface, GrabIt provides everything a user expects from a polished online shopping platform.
 
@@ -8,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View the live website](https://your-netlify-site.netlify.app)
+🔗 [View the live website]([https://your-netlify-site.netlify.app](https://grabit-ecommerce-platform.netlify.app/ ))
 
 ---
 
