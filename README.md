@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View the live website](https://grabit-ecommerce-platform.netlify.app/ ))
+🔗 [View the live website](https://grabit-ecommerce-platform.netlify.app/ )
 
 ---
 
