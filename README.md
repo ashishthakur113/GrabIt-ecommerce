@@ -9,7 +9,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [View the live website](https://grabit1-ecommere.netlify.app/)
+🔗 [View the live website](https://grab-it-ecommerce.vercel.app/)
 
 ---
 
