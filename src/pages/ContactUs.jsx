@@ -1,14 +1,15 @@
 import React, { useEffect, useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 import globe from "../../public/globe2.webp";
+import SEO from '../Components/SEO';
 
-export default function ContactUs ()  {
+export default function ContactUs() {
   const form = useRef();
-  const [success, setSuccess] = useState(false); 
-   
-   useEffect(()=>{
-      window.scrollTo({top:0 , behavior:"smooth"})
-    })
+  const [success, setSuccess] = useState(false);
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" })
+  })
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -20,8 +21,8 @@ export default function ContactUs ()  {
       .then(
         () => {
           console.log('SUCCESS!');
-          setSuccess(true); 
-          form.current.reset(); 
+          setSuccess(true);
+          form.current.reset();
 
           setTimeout(() => {
             setSuccess(false);
@@ -35,7 +36,10 @@ export default function ContactUs ()  {
 
   return (
     <div className="relative min-h-screen bg-blue-100 flex items-center justify-center p-6">
-
+      <SEO
+        title="Contact Us | Grabit"
+        description="Get in touch with Grabit for questions, support, or feedback. We're here to help you with your shopping experience."
+      />
       {success && (
         <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-green-600 text-white text-xl font-semibold px-6 py-4 rounded shadow-lg z-50">
           Send Successfully!
@@ -43,7 +47,7 @@ export default function ContactUs ()  {
       )}
 
       <div className="flex flex-col md:flex-row bg-white shadow-2xl rounded-xl overflow-hidden w-full max-w-6xl z-10">
-     
+
         <div className="flex-1 h-[400px] md:h-auto">
           <img
             src={globe}

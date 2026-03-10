@@ -3,8 +3,9 @@ import { searchContext } from '../Context/UserContext';
 import { Link } from 'react-router-dom';
 import { toast } from "react-toastify";
 import { useDispatch } from 'react-redux';
-import { AddItem } from '../redux/cartSlice'; 
+import { AddItem } from '../redux/cartSlice';
 import Star from '../Components/Star';
+import SEO from '../Components/SEO';
 
 export default function SearchResults() {
   const { searchTerm, setSearchTerm } = useContext(searchContext);
@@ -20,14 +21,14 @@ export default function SearchResults() {
     }
   }, [searchTerm, setSearchTerm]);
 
-useEffect(() => {
-  async function getdata() {
-    const response = await fetch("/data.json");
-    const data = await response.json();
-    setProducts(data.products); 
-  }
-  getdata();
-}, []);
+  useEffect(() => {
+    async function getdata() {
+      const response = await fetch("/data.json");
+      const data = await response.json();
+      setProducts(data.products);
+    }
+    getdata();
+  }, []);
 
 
   const filtered = products.filter((product) => {
@@ -57,6 +58,10 @@ useEffect(() => {
 
   return (
     <div className="w-full min-h-screen px-4 py-6 sm:px-6 md:px-10 lg:px-20">
+      <SEO
+        title={`Search Results for "${searchTerm || "products"}" | Grabit`}
+        description={`Find products related to "${searchTerm || "your search"}" on Grabit. Browse matching items, explore categories, and discover the best deals from your search results.`}
+      />
       {filtered.length > 0 ? (
         filtered.map((product) => (
           <div

@@ -3,7 +3,7 @@ import Banner2nd from '../assets/Banner2nd.mp4';
 import ShopByCategory from '../Components/ShopByCategory';
 import { useEffect } from 'react';
 import Product_Main from './pagination/Product_Main';
-
+import SEO from '../Components/SEO'
 
 
 export default function Home() {
@@ -17,6 +17,7 @@ export default function Home() {
   })
   return (
     <div>
+      <SEO title="GrabIt | Online shoping Website" description="Discover products on Grabit through curated categories, featured items, and product highlights. Browse trending products and shop easily in a modern ecommerce experience."/>
       <LandingPage myData={nameData} />
       <ShopByCategory/>
     <div className="w-full flex justify-center px-4 sm:px-8 mt-10 my-12 ">
@@ -35,7 +36,7 @@ export default function Home() {
   </div>
 </div>
 
-  <Product_Main />
+  <Product_Main  enableSEO = {false}/>
     </div>
   );
 }

@@ -1,9 +1,14 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import SEO from '../Components/SEO'
 
 export default function ErrorPage() {
   return (
     <div className="bg-zinc-500 w-screen h-screen flex items-center justify-center">
+      <SEO
+        title="404 Page Not Found | Grabit"
+        description="The page you are looking for does not exist on Grabit. Return to the homepage to continue shopping and exploring products."
+      />
       <div className="text-center px-4 sm:px-6 lg:px-8">
         <h1 className="text-6xl sm:text-8xl font-bold text-black">404</h1>
         <p className="text-lg sm:text-2xl mt-4 text-white">UH OH! You're Lost.</p>

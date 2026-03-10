@@ -2,6 +2,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 import { useContext, useEffect, useState } from "react";
 import { searchContext } from "../Context/UserContext";
 import { toast } from "react-toastify";
+import SEO from '../Components/SEO'
 
 export default function PurchasePage() {
   const location = useLocation();
@@ -16,14 +17,12 @@ export default function PurchasePage() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, []);
 
-  // Load products from route state
   useEffect(() => {
     if (location.state?.products) {
       setProductsToBuy(location.state.products);
     }
   }, [location]);
 
-  // Load saved delivery details
   useEffect(() => {
     const authEmail = localStorage.getItem("authEmail");
     if (!authEmail) return;
@@ -106,6 +105,10 @@ export default function PurchasePage() {
 
   return (
     <div className="min-h-screen bg-gray-100 py-10 px-4 sm:px-8">
+      <SEO
+        title="Checkout | Secure Purchase | Grabit"
+        description="Complete your purchase on Grabit. Enter delivery details, choose your payment method, and place your order securely with a smooth checkout experience."
+      />
       <div className="max-w-6xl mx-auto flex flex-col-reverse lg:flex-row-reverse gap-8">
         {/* ORDER SUMMARY */}
         <div className="w-full lg:w-1/3 bg-white p-6 rounded-md shadow-md">
@@ -150,11 +153,10 @@ export default function PurchasePage() {
             form="orderForm"
             type="submit"
             disabled={loading}
-            className={`mt-6 w-full py-3 rounded-md text-white ${
-              loading
+            className={`mt-6 w-full py-3 rounded-md text-white ${loading
                 ? "bg-gray-400 cursor-not-allowed"
                 : "bg-green-600 hover:bg-green-700"
-            }`}
+              }`}
           >
             Place Order
           </button>

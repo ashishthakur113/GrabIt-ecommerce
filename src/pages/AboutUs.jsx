@@ -1,9 +1,10 @@
 import OurLeaders from '../Components/OurLeaders';
 import { motion } from 'framer-motion';
-import image2 from    '/aboutImg2.webp';
+import image2 from '/aboutImg2.webp';
 import Aboutus from '/Aboutus.jpeg';
 import Business2 from '/business2.webp';
 import { useEffect } from 'react';
+import SEO from '../Components/SEO'
 
 const timelineData = [
   { year: "2020", title: "Founded GrabIt", desc: "GrabIt was born with a mission to simplify online shopping." },
@@ -13,18 +14,22 @@ const timelineData = [
   { year: "2024", title: "Pan India Growth", desc: "Operating in 500+ cities with fast delivery services." }
 ];
 
-const customer = ["A wide range of handpicked products","Affordable pricing with regular deals","Easy returns and reliable delivery","Secure payment options"]
-const business = ["Nationwide reach to customers across India","Sales & analytics tools to track and improve performance","Logistics & fulfillment support for fast delivery","Marketing and promotional visibility","Secure, smooth transactions and return handling"]
+const customer = ["A wide range of handpicked products", "Affordable pricing with regular deals", "Easy returns and reliable delivery", "Secure payment options"]
+const business = ["Nationwide reach to customers across India", "Sales & analytics tools to track and improve performance", "Logistics & fulfillment support for fast delivery", "Marketing and promotional visibility", "Secure, smooth transactions and return handling"]
 
 
 export default function AboutUs() {
 
   useEffect(() => {
-     window.scrollTo({ top: 0, behavior: "smooth" });
-   }, []);
-   
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, []);
+
   return (
     <div className="w-full">
+      <SEO
+        title="About Grabit | Our Mission, Story & Ecommerce Platform"
+        description="Discover the story behind Grabit, our mission to simplify online shopping, and how we connect customers with trusted sellers across India."
+      />
       <motion.div
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}
@@ -68,52 +73,52 @@ export default function AboutUs() {
         </div>
       </motion.div>
 
-   
-        <div className="max-w-6xl mx-auto flex flex-col-reverse md:flex-row items-center gap-10 bg-slate-200 shadow-md rounded-2xl p-4 sm:p-12 mb-8">
-          <div className="md:w-1/2">
-            <h2 className="text-2xl sm:text-4xl font-bold text-slate-800 mb-4">For Customers</h2>
-            <p className="text-[17px] sm:text-lg text-slate-800 mb-3">
-              We believe shopping should be joyful — not stressful. Our platform is designed for everyday Indians, offering:
-            </p>
-            <ul className="list-disc list-inside text-slate-800 text-normal sm:text-lg  space-y-2">
-              {
-                customer.map((facuility ,index)=>(
-                  <li key={index}>{facuility}</li>
-                ))
-              }
-            </ul>
-            <p className="text-lg text-slate-700 mt-4">
-              Whether you’re shopping for fashion, electronics, or daily needs — we’re here to make your life simpler and better.
-            </p>
-          </div>
-          <div className="md:w-1/2 flex justify-center">
-            <img src={image2} alt="Online shopping" className="w-[90%] max-w-[500px] rounded-xl shadow-md" />
-          </div>
-        </div>
-     
 
-        <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 bg-slate-200 shadow-md rounded-2xl p-4 sm:p-12">
-          <div className="md:w-1/2 flex justify-center">
-            <img src={Business2} alt="Sell with us" className="w-[90%] max-w-[500px] rounded-xl shadow-md" />
-          </div>
-          <div className="md:w-1/2">
-            <h2 className="text-2xl sm:text-4xl font-bold text-slate-800 mb-4">For Businesses & Brands</h2>
-            <p className="text-lg text-slate-800 mb-3">
-              We empower sellers, startups, and established brands to grow their reach and boost sales through our ecommerce platform.
-            </p>
-            <ul className="list-disc list-inside text-slate-800 text-[17px] sm:text-lg space-y-1 sm:space-y-2">
-              {
-                business.map((facuility , index)=>{
-                return  <li key={index}>{facuility}</li>
-                })
-              }
-            </ul>
-            <p className="text-lg text-slate-700 mt-4">
-              Whether you're a local seller or a growing brand — we make selling online simpler and more powerful.
-            </p>
-          </div>
+      <div className="max-w-6xl mx-auto flex flex-col-reverse md:flex-row items-center gap-10 bg-slate-200 shadow-md rounded-2xl p-4 sm:p-12 mb-8">
+        <div className="md:w-1/2">
+          <h2 className="text-2xl sm:text-4xl font-bold text-slate-800 mb-4">For Customers</h2>
+          <p className="text-[17px] sm:text-lg text-slate-800 mb-3">
+            We believe shopping should be joyful — not stressful. Our platform is designed for everyday Indians, offering:
+          </p>
+          <ul className="list-disc list-inside text-slate-800 text-normal sm:text-lg  space-y-2">
+            {
+              customer.map((facuility, index) => (
+                <li key={index}>{facuility}</li>
+              ))
+            }
+          </ul>
+          <p className="text-lg text-slate-700 mt-4">
+            Whether you’re shopping for fashion, electronics, or daily needs — we’re here to make your life simpler and better.
+          </p>
         </div>
-     
+        <div className="md:w-1/2 flex justify-center">
+          <img src={image2} alt="Online shopping" className="w-[90%] max-w-[500px] rounded-xl shadow-md" />
+        </div>
+      </div>
+
+
+      <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 bg-slate-200 shadow-md rounded-2xl p-4 sm:p-12">
+        <div className="md:w-1/2 flex justify-center">
+          <img src={Business2} alt="Sell with us" className="w-[90%] max-w-[500px] rounded-xl shadow-md" />
+        </div>
+        <div className="md:w-1/2">
+          <h2 className="text-2xl sm:text-4xl font-bold text-slate-800 mb-4">For Businesses & Brands</h2>
+          <p className="text-lg text-slate-800 mb-3">
+            We empower sellers, startups, and established brands to grow their reach and boost sales through our ecommerce platform.
+          </p>
+          <ul className="list-disc list-inside text-slate-800 text-[17px] sm:text-lg space-y-1 sm:space-y-2">
+            {
+              business.map((facuility, index) => {
+                return <li key={index}>{facuility}</li>
+              })
+            }
+          </ul>
+          <p className="text-lg text-slate-700 mt-4">
+            Whether you're a local seller or a growing brand — we make selling online simpler and more powerful.
+          </p>
+        </div>
+      </div>
+
 
       <motion.div
         initial={{ opacity: 0, y: 50 }}
@@ -148,14 +153,14 @@ export default function AboutUs() {
           </div>
         </div>
       </motion.div>
- <motion.div
+      <motion.div
         initial={{ opacity: 0, y: 50 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
         viewport={{ once: true }}
         className="w-full bg-white py-16 px-4 sm:px-10"
       >
-      <OurLeaders />
+        <OurLeaders />
       </motion.div>
     </div>
   );

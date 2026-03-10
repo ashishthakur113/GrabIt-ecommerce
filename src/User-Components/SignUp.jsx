@@ -1,19 +1,20 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { searchContext } from '../Context/UserContext';
+import SEO from '../Components/SEO';
 
 export default function SignUp() {
-  const [formData, setFormData] = useState({name: '', contact: '', password: '', confirmPassword: ''});
+  const [formData, setFormData] = useState({ name: '', contact: '', password: '', confirmPassword: '' });
   const [errors, setErrors] = useState({});
-  const { setUserData  , loginUser} = useContext(searchContext);
+  const { setUserData, loginUser } = useContext(searchContext);
   const navigate = useNavigate();
 
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   const mobileRegex = /^[6-9]\d{9}$/;
 
-    useEffect(()=>{
-        window.scrollTo({top:0 , behavior:"smooth"})
-      })
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" })
+  })
 
   const handleChange = (e) => {
     setFormData({
@@ -46,30 +47,30 @@ export default function SignUp() {
     return Object.keys(newErrors).length === 0;
   };
 
- const handleSubmit = (e) => {
-  e.preventDefault();
+  const handleSubmit = (e) => {
+    e.preventDefault();
 
-  if (validate()) {
-    const newUser = {
-      name: formData.name,
-      contact: formData.contact,
-      email: emailRegex.test(formData.contact) ? formData.contact : "",
-      mobile: mobileRegex.test(formData.contact) ? formData.contact : "",
-      password: formData.password,
-    };
+    if (validate()) {
+      const newUser = {
+        name: formData.name,
+        contact: formData.contact,
+        email: emailRegex.test(formData.contact) ? formData.contact : "",
+        mobile: mobileRegex.test(formData.contact) ? formData.contact : "",
+        password: formData.password,
+      };
 
-    localStorage.setItem("user", JSON.stringify(newUser));
+      localStorage.setItem("user", JSON.stringify(newUser));
 
-    loginUser(newUser);
+      loginUser(newUser);
 
-    const authEmail =
-      newUser.email || newUser.mobile || newUser.contact;
+      const authEmail =
+        newUser.email || newUser.mobile || newUser.contact;
 
-    localStorage.setItem("authEmail", authEmail);
+      localStorage.setItem("authEmail", authEmail);
 
-    navigate("/");
-  }
-};
+      navigate("/");
+    }
+  };
 
 
   const fields = [
@@ -81,6 +82,10 @@ export default function SignUp() {
 
   return (
     <div className='bg-gradient-to-br from-blue-100 to-purple-100 flex justify-center py-20 px-4'>
+      <SEO
+        title="Create Account | Grabit"
+        description="Create your Grabit account to start shopping, save your favorite products, track orders, and enjoy a seamless online shopping experience."
+      />
       <div className='bg-white w-full max-w-lg sm:w-[90%] md:w-[60%] lg:w-[36%] py-4 px-6 sm:px-10 rounded-2xl shadow-2xl'>
         <h1 className='font-semibold text-3xl text-center underline font-serif text-blue-500'>
           Grab<span className='text-orange-400 font-mono'>It</span>

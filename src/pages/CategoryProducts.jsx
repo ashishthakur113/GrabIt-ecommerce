@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, Link, NavLink } from 'react-router-dom';
 import Star from "../Components/Star";
+import SEO from '../Components/SEO';
 
 export default function CategoryProducts() {
   const { categoryName } = useParams();
@@ -27,6 +28,11 @@ export default function CategoryProducts() {
 
   return (
     <>
+      <SEO
+        key={categoryName}
+        title={`${categoryName.replace(/-/g, " ")} | Shop Category `}
+        description={`Browse ${categoryName.replace(/-/g, " ")} products on Grabit. Discover top-rated items, trending products, and the best deals in this category.`}
+      />
       <h1 className="text-3xl mt-5 ml-10 text-black font-bold">
         {categoryName === 'men-wear' ? "Men's Wear" :
           categoryName === 'women-wear' ? "Women's Wear" :

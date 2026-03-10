@@ -1,14 +1,15 @@
 import { useContext, useEffect, useState } from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { searchContext } from '../Context/UserContext';
-import { FaRegEyeSlash ,FaRegEye } from "react-icons/fa";
+import { FaRegEyeSlash, FaRegEye } from "react-icons/fa";
+import SEO from '../Components/SEO';
 
 export default function SignIn() {
 
   const [formData, setFormData] = useState({ contact: '', password: '' });
   const { userData, setUserData } = useContext(searchContext);
   const { loginUser } = useContext(searchContext);
-  const [showPass , setShowPass]= useState(false);
+  const [showPass, setShowPass] = useState(false);
   const [error, setError] = useState();
 
   const navigate = useNavigate();
@@ -51,6 +52,10 @@ export default function SignIn() {
 
   return (
     <div className='min-h-screen bg-gradient-to-br from-blue-100 to-purple-100 flex justify-center items-center px-4'>
+      <SEO
+        title="Sign In | Grabit"
+        description="Sign in to your Grabit account to access your orders, wishlist, cart, and personalized shopping experience."
+      />
       <div className='bg-white w-full max-w-lg sm:w-[90%] md:w-[60%] lg:w-[36%] py-8 px-6 sm:px-10 rounded-2xl shadow-2xl'>
         <h1 className='font-semibold text-3xl text-center underline font-serif text-blue-500'>Grab<span className='text-orange-500 font-mono'>It</span></h1>
         {error && <p className='text-red-500 text-center'>{error}</p>}
@@ -66,7 +71,7 @@ export default function SignIn() {
           />
 
           <label className='mb-1 mt-6 font-semibold text-1xl ml-1'>Password</label>
-           <div className="relative w-full">
+          <div className="relative w-full">
             <input
               type={showPass ? "text" : "password"}
               className={`${inputcss} pr-10 w-full`}   // 👈 w-full is CRITICAL

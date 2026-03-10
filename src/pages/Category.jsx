@@ -1,5 +1,6 @@
 import React, { useEffect} from 'react';
 import { Link } from 'react-router-dom';
+import SEO from '../Components/SEO';
 
 
 
@@ -20,6 +21,10 @@ export default function Category() {
   }, []);
   return (
     <div className="flex flex-col min-h-screen mb-20">
+       <SEO
+      title="Shop by Category | Grabit"
+      description="Explore product categories on Grabit including fashion, electronics, groceries, beauty products, furniture, and more. Discover products by category and shop easily."
+    />
   <main className="flex-grow mt-20 overflow-auto">
     <div className="grid grid-cols-1 sm:grid-cols-2  md:grid-cols-2 lg:grid-cols-3  gap-8 p-4 place-items-center">
       {categories.map((category, index) => (

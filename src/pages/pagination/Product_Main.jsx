@@ -1,8 +1,9 @@
 import React, { useEffect, useRef, useState } from 'react'
 import Products from '../product'
 import Pagination from './Pagination'
+import SEO from '../../Components/SEO'
 
-export default function Product_Main() {
+export default function Product_Main({ enableSEO = true }) {
   const [products, setProducts] = useState([])
   const [currPage, setCurrPage] = useState(1)
   const [prodPerPage] = useState(12)
@@ -31,6 +32,12 @@ export default function Product_Main() {
 
   return (
     <div ref={productRef} className='m-5'>
+      {enableSEO && (
+        <SEO 
+          title="Products | Grabit"
+          description="Browse trending products on Grabit. Explore categories, discover top-rated items, and find the best deals across our product collection."
+        />
+      )}
       <Products products={currProd} />
       <Pagination
         totalProd={products.length}

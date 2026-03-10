@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroImage from '../../public/heroImage.png'
+import heroImage from '/public/heroImage.jpeg'
 import { Link } from "react-router-dom";
 
 export default function LandingPage() {

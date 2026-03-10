@@ -1,10 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import Star from "../Components/Star";
-import { motion } from 'framer-motion';
 
 export default function Products({ products }) {
-
 
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" })
@@ -12,21 +10,12 @@ export default function Products({ products }) {
 
   return (
     <>
-      <h1 className="text-3xl mt-5 ml-10 font-bold text-black">Trending Products</h1>
+      <h1 className="text-3xl mt-5 ml-10 md:mt-10 font-bold text-black">Trending Products</h1>
 
       <div className="mt-6 px-2 sm:px-4 md:px-6 lg:px-8 grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-x-6 gap-y-10 xl:gap-x-10 mb-20">
-        {products.map((product, index) => (
-          <motion.div
+        {products.map((product) => (
+          <div
             key={product.id}
-            initial={{ opacity: 0, y: 40 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{
-              duration: 0.6,
-              delay: 0.05 * index,
-              type: "spring",
-              bounce: 0.1,
-            }}
-            viewport={{ once: false, amount: 0.3 }}
             className="group relative bg-white border border-gray-200 rounded-xl shadow-sm hover:shadow-xl transition-all duration-300"
           >
             <Link
@@ -46,7 +35,7 @@ export default function Products({ products }) {
                   {product.title}
                 </h3>
 
-                <div className="flex  justify-between">
+                <div className="flex justify-between">
                   <Star stars={product.rating} />
                   <span className="text-xs text-gray-500">
                     ({product.rating})
@@ -64,8 +53,7 @@ export default function Products({ products }) {
                 </div>
               </div>
             </Link>
-          </motion.div>
-
+          </div>
         ))}
       </div>
     </>

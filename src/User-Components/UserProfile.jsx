@@ -8,6 +8,7 @@ import { FiLogOut } from "react-icons/fi";
 import { MdDelete } from "react-icons/md";
 import { IoKeyOutline } from "react-icons/io5";
 import { motion } from "framer-motion";
+import SEO from "../Components/SEO";
 
 export default function UserProfile() {
   const { logoutUser, userData, DeleteAccount } = useContext(searchContext);
@@ -24,9 +25,9 @@ export default function UserProfile() {
     return {};
   });
 
-    useEffect(()=>{
-        window.scrollTo({top:0 , behavior:"smooth"})
-      })
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" })
+  })
 
   const [isChanged, setIsChanged] = useState(false);
   const [message, setMessage] = useState("");
@@ -104,6 +105,10 @@ export default function UserProfile() {
 
   return (
     <div className="bg-gray-100 min-h-screen px-4 py-20 lg:px-20 flex flex-col lg:flex-row gap-10 ">
+      <SEO
+        title="Your Profile | Grabit"
+        description="Manage your account information on Grabit. Update your profile details, review your activity, and personalize your shopping experience."
+      />
       {/* Hello Div --------- */}
       <motion.div
         initial={{ y: 50, opacity: 0 }}
@@ -241,7 +246,7 @@ export default function UserProfile() {
                     placeholder={field.placeholder || ""}
                     value={formData[field.title] || ""}
                     onChange={(e) => handleFormChange(field.title, e.target.value)}
-                  className="border border-gray-400 px-3 py-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className="border border-gray-400 px-3 py-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
                   />
                 </div>
               ))}
@@ -254,7 +259,7 @@ export default function UserProfile() {
                 Save Details
               </button>
             )}
-           {message && <p className="text-green-600 mt-3 font-medium">{message}</p>}
+            {message && <p className="text-green-600 mt-3 font-medium">{message}</p>}
           </>
         )}
       </motion.div>

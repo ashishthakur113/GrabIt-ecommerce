@@ -7,6 +7,7 @@ import  RelatedProducts from "../Components/RelatedProducts";
 import { AddItem } from "../redux/cartSlice";
 import { toast } from "react-toastify";
 import Star from "../Components/Star";
+import SEO from "../Components/SEO";
 
 export default function Infopage() {
 
@@ -110,6 +111,10 @@ async function fetchProductAndRelated() {
 
   return (
     <div className="mb-10">
+      <SEO
+      title={`${productInfo.title} | ${productInfo.category} | Grabit`}
+      description={`Buy ${productInfo.title} from the ${productInfo.category} category on Grabit. ${productInfo.description}`}
+    />
       <nav className="text-sm text-gray-600 ml-2 mt-8 md:mb-2 mb-6">
         <ul className="flex space-x-2">
           <li>

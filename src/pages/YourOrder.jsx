@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import SEO from "../Components/SEO";
 
 export default function YourOrder() {
   const [orders, setOrders] = useState([]);
@@ -33,6 +34,10 @@ export default function YourOrder() {
 
   return (
     <div className="bg-slate-200 min-h-screen px-6  sm:px-20 py-10">
+      <SEO
+        title="Your Orders | Grabit"
+        description="View and manage your orders on Grabit. Track your purchases, review order details, and stay updated on your deliveries."
+      />
       <div className="bg-white rounded-md shadow-lg p-6">
         <h1 className="text-2xl font-bold mb-6">Your Orders</h1>
 
